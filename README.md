@@ -16,7 +16,9 @@
 
 [![Codeac](https://static.codeac.io/badges/2-806057747.svg "Codeac")](https://app.codeac.io/github/AReid987/CodeQuest)
 
-[![BuildPulse]](https://app.buildpulse.io/@AReid987/CodeQuest/flaky/badges.svg)]https://app.buildpulse.io/@AReid987/CodeQuest
+[![BuildPulse](https://app.buildpulse.io/@AReid987/CodeQuest/flaky/badges.svg)](https://app.buildpulse.io/@AReid987/CodeQuest)
+
+[![MegaLinter](https://github.com/areid987/CodeQuest/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/<OWNER>/<REPOSITORY>/actions?query=workflow%3AMegaLinter+branch%3Amain)
 
 <!-- #SECTION -->
 
