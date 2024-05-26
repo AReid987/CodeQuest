@@ -1,5 +1,9 @@
 # CodeQuest
 
+## Repository Visualization
+
+![Visualization of the codebase](./diagram.svg)
+
 <!-- #SECTION -->
 
 [![CodeFactor](https://www.codefactor.io/repository/github/areid987/codequest/badge)](https://www.codefactor.io/repository/github/areid987/codequest)
