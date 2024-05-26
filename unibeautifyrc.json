@@ -1,73 +1,41 @@
 {
   "GraphQL": {
-    "beautifiers": [
-      "Prettier"
-    ],
+    "beautifiers": ["Prettier"],
     "indent_size": 2
   },
   "HTML": {
-    "beautifiers": [
-      "Pretty Diff",
-      "JS-Beautify"
-    ],
+    "beautifiers": ["Pretty Diff", "JS-Beautify"],
     "indent_size": 2
   },
   "JSON": {
-    "beautifiers": [
-      "Prettier",
-      "Pretty Diff",
-      "JS-Beautify"
-    ],
+    "beautifiers": ["Prettier", "Pretty Diff", "JS-Beautify"],
     "indent_size": 2
   },
   "JSX": {
-    "beautifiers": [
-      "Prettier",
-      "Pretty Diff",
-      "JS-Beautify",
-      "ESLint"
-    ],
+    "beautifiers": ["Prettier", "Pretty Diff", "JS-Beautify", "ESLint"],
     "indent_size": 2
   },
   "JavaScript": {
-    "beautifiers": [
-      "Prettier",
-      "Pretty Diff",
-      "JS-Beautify",
-      "ESLint"
-    ],
+    "beautifiers": ["Prettier", "Pretty Diff", "JS-Beautify", "ESLint"],
     "indent_size": 2
   },
   "Markdown": {
-    "beautifiers": [
-      "Prettier"
-    ]
+    "beautifiers": ["Prettier"]
   },
   "Python": {
-    "beautifiers": [
-      "Black",
-      "YAPF"
-    ],
+    "beautifiers": ["Black", "YAPF"],
     "indent_size": 2
   },
   "SQL": {
-    "beautifiers": [
-      "sqlformat"
-    ],
+    "beautifiers": ["sqlformat"],
     "indent_size": 2
   },
   "SVG": {
-    "beautifiers": [
-      "Pretty Diff"
-    ],
+    "beautifiers": ["Pretty Diff"],
     "indent_size": 2
   },
   "TypeScript": {
-    "beautifiers": [
-      "Prettier",
-      "Pretty Diff",
-      "TSLint"
-    ],
+    "beautifiers": ["Prettier", "Pretty Diff", "TSLint"],
     "indent_size": 2
   }
 }
