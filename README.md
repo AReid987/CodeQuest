@@ -12,6 +12,8 @@
 [![CodeScene Missed Goals](https://codescene.io/projects/54276/status-badges/missed-goals)](https://codescene.io/projects/54276)
 [![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/54276)
 
+[![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/AReid987/CodeQuest)
+
 <!-- #SECTION -->
 
 ## Tech Stack
