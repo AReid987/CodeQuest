@@ -16,6 +16,8 @@
 
 [![Codeac](https://static.codeac.io/badges/2-806057747.svg "Codeac")](https://app.codeac.io/github/AReid987/CodeQuest)
 
+[![BuildPulse]](https://app.buildpulse.io/@AReid987/CodeQuest/flaky/badges.svg)]https://app.buildpulse.io/@AReid987/CodeQuest
+
 <!-- #SECTION -->
 
 ## Tech Stack
