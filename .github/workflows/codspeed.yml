@@ -26,4 +26,5 @@ jobs:
         uses: CodSpeedHQ/action@v2
         with:
           token: ${{ secrets.CODSPEED_TOKEN }}
-          run: "<Insert your benchmark command here>"
+          run: echo "To Do:<Insert your benchmark command here>"
+          # *TODO - Add the actual benchmark command here
