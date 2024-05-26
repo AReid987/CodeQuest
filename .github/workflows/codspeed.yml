@@ -15,7 +15,7 @@ jobs:
   benchmarks:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       # ...
       # Setup your environment here:
       #  - Configure your Python/Rust/Node version
