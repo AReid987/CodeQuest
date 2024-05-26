@@ -1,0 +1,73 @@
+{
+  "GraphQL": {
+    "beautifiers": [
+      "Prettier"
+    ],
+    "indent_size": 2
+  },
+  "HTML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "indent_size": 2
+  },
+  "JSON": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "indent_size": 2
+  },
+  "JSX": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ],
+    "indent_size": 2
+  },
+  "JavaScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ],
+    "indent_size": 2
+  },
+  "Markdown": {
+    "beautifiers": [
+      "Prettier"
+    ]
+  },
+  "Python": {
+    "beautifiers": [
+      "Black",
+      "YAPF"
+    ],
+    "indent_size": 2
+  },
+  "SQL": {
+    "beautifiers": [
+      "sqlformat"
+    ],
+    "indent_size": 2
+  },
+  "SVG": {
+    "beautifiers": [
+      "Pretty Diff"
+    ],
+    "indent_size": 2
+  },
+  "TypeScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "TSLint"
+    ],
+    "indent_size": 2
+  }
+}
