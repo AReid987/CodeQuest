@@ -1,13 +1,16 @@
 <div align="center">
 
 # Tech Stack File
+
 ![](https://img.stackshare.io/repo.svg "repo") [AReid987/CodeQuest](https://github.com/AReid987/CodeQuest)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |2<br/>Tools used|05/26/24 <br/>Report generated|
 |------|------|
+
 </div>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (2)
+
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
