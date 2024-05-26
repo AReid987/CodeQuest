@@ -10,8 +10,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![codecov](https://codecov.io/github/AReid987/CodeQuest/graphs/sunburst.svg?token=QVPK9OZG6G)]
-
 <!-- #SECTION -->
 
 [![wakatime](https://wakatime.com/badge/github/AReid987/CodeQuest.svg)](https://wakatime.com/badge/github/AReid987/CodeQuest)
@@ -26,8 +24,10 @@
 [![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/54276)
 [![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/AReid987/CodeQuest)
 [![Codeac](https://static.codeac.io/badges/2-806057747.svg "Codeac")](https://app.codeac.io/github/AReid987/CodeQuest)
-[![BuildPulse](https://app.buildpulse.io/@AReid987/CodeQuest/flaky/badges.svg)](https://app.buildpulse.io/@AReid987/CodeQuest)
 [![MegaLinter](https://github.com/areid987/CodeQuest/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/<OWNER>/<REPOSITORY>/actions?query=workflow%3AMegaLinter+branch%3Amain)
+
+<!-- #FIXME - Revisit after adding coverage reports -->
+<!-- [![BuildPulse](https://app.buildpulse.io/@AReid987/CodeQuest/flaky/badges.svg)](https://app.buildpulse.io/@AReid987/CodeQuest) -->
 
 <!-- #SECTION -->
 
