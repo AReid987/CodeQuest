@@ -20,3 +20,23 @@ jobs:
         uses: codecov/codecov-action@v4.4.1
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run tests
+        run: echo "Run your tests and generate XML reports for your test results"
+
+      - name: Upload test results to BuildPulse for flaky test detection
+        if: "!cancelled()" # Run this step even when the tests fail. Skip if the workflow is cancelled.
+        uses: buildpulse/buildpulse-action@main
+        with:
+          account: 26177884
+          repository: 806057747
+          path: |
+            reports/junit.xml # <path-to-xml-reports>
+            reports2/**/junit.xml # support double globbing (if your github-hosted runner OS uses bash 4+)
+          key: ${{ secrets.BUILDPULSE_ACCESS_KEY_ID }}
+          secret: ${{ secrets.BUILDPULSE_SECRET_ACCESS_KEY }}
+          coverage-files: coverage/report.xml # IF PURCHASED
+          tags: e2e team1 staging # OPTIONAL

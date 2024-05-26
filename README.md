@@ -14,6 +14,8 @@
 
 [![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/AReid987/CodeQuest)
 
+[![Codeac](https://static.codeac.io/badges/2-806057747.svg "Codeac")](https://app.codeac.io/github/AReid987/CodeQuest)
+
 <!-- #SECTION -->
 
 ## Tech Stack
