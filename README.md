@@ -10,26 +10,23 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![codecov](https://codecov.io/github/AReid987/CodeQuest/graphs/sunburst.svg?token=QVPK9OZG6G)]
+
 <!-- #SECTION -->
 
 [![wakatime](https://wakatime.com/badge/github/AReid987/CodeQuest.svg)](https://wakatime.com/badge/github/AReid987/CodeQuest)
-
+[![codecov](https://codecov.io/github/AReid987/CodeQuest/graph/badge.svg?token=QVPK9OZG6G)](https://codecov.io/github/AReid987/CodeQuest)
 [![CodeFactor](https://www.codefactor.io/repository/github/areid987/codequest/badge)](https://www.codefactor.io/repository/github/areid987/codequest)
 [![DeepSource](https://app.deepsource.com/gh/AReid987/CodeQuest.svg/?label=code+coverage&show_trend=true&token=YhjdhZ_ZmptsSrlqeyN39u73)](https://app.deepsource.com/gh/AReid987/CodeQuest/)
 [![DeepSource](https://app.deepsource.com/gh/AReid987/CodeQuest.svg/?label=active+issues&show_trend=true&token=YhjdhZ_ZmptsSrlqeyN39u73)](https://app.deepsource.com/gh/AReid987/CodeQuest/)
 [![DeepSource](https://app.deepsource.com/gh/AReid987/CodeQuest.svg/?label=resolved+issues&show_trend=true&token=YhjdhZ_ZmptsSrlqeyN39u73)](https://app.deepsource.com/gh/AReid987/CodeQuest/)
 [![CodeScene Code Health](https://codescene.io/projects/54276/status-badges/code-health)](https://codescene.io/projects/54276)
-
 [![CodeScene System Mastery](https://codescene.io/projects/54276/status-badges/system-mastery)](https://codescene.io/projects/54276)
 [![CodeScene Missed Goals](https://codescene.io/projects/54276/status-badges/missed-goals)](https://codescene.io/projects/54276)
 [![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/54276)
-
 [![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/AReid987/CodeQuest)
-
 [![Codeac](https://static.codeac.io/badges/2-806057747.svg "Codeac")](https://app.codeac.io/github/AReid987/CodeQuest)
-
 [![BuildPulse](https://app.buildpulse.io/@AReid987/CodeQuest/flaky/badges.svg)](https://app.buildpulse.io/@AReid987/CodeQuest)
-
 [![MegaLinter](https://github.com/areid987/CodeQuest/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/<OWNER>/<REPOSITORY>/actions?query=workflow%3AMegaLinter+branch%3Amain)
 
 <!-- #SECTION -->

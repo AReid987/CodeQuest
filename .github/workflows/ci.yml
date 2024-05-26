@@ -16,11 +16,6 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v4.4.1
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }}
-
       - name: Check out code
         uses: actions/checkout@v4
 
@@ -39,3 +34,9 @@ jobs:
           secret: ${{ secrets.BUILDPULSE_SECRET_ACCESS_KEY }}
           coverage-files: coverage/report.xml # IF PURCHASED
           tags: e2e team1 staging # OPTIONAL
+      - uses: codecov/codecov-action@v4
+        with:
+          flags: smart-tests
+          verbose: true
+        env:
+          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
